@@ -1,0 +1,4 @@
+#Sat Sep 26 10:16:08 MDT 2020
+base.0=E\:\\DMIT\\DMIT2504\\flutter-begin\\ae_row_column\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
